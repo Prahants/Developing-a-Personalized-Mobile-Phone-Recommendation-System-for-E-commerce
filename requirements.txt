@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+streamlit
+requests
+beautifulsoup4
+lxml
+
+
+#pip install -r requirements.txt
